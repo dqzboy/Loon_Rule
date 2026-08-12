@@ -1,4 +1,7 @@
-# 通用 CDN 域名
+# PCDN / P2P CDN 拦截规则
+# 原则：优先使用精确域名，避免全局匹配 p2p、stun、biliapi 导致视频、游戏和 WebRTC 误伤。
+
+# 通用 PCDN 服务域名
 DOMAIN-SUFFIX,bsccdn.net
 DOMAIN-SUFFIX,gjfzpt.cn
 DOMAIN-SUFFIX,jomodns.cn
@@ -9,13 +12,13 @@ DOMAIN-SUFFIX,szbdyd.com
 DOMAIN-SUFFIX,uhabo.com
 DOMAIN-SUFFIX,xycdn.com
 
-# 视频平台 CDN
+# 视频和音频平台 PCDN
 DOMAIN-SUFFIX,mcdn.bilivideo.cn
 DOMAIN-SUFFIX,onethingpcs.com
 DOMAIN-SUFFIX,pcdn.xmcdn.com
 DOMAIN-SUFFIX,tpa-hcdn.iqiyi.com
 
-# P2P 相关域名
+# 明确的 P2P / STUN 域名
 DOMAIN,p2p.huya.com
 DOMAIN,p2p.qq.com
 DOMAIN,p2ptun.qq.com
@@ -24,15 +27,10 @@ DOMAIN,p2pupgrade.gamedl.qq.com
 DOMAIN,pcdn.yximgs.com
 DOMAIN,stun.hitv.com
 
-# 正则匹配规则
+# 仅匹配明确包含 PCDN 标识的域名
 DOMAIN-KEYWORD,pcdn
-DOMAIN-KEYWORD,p2p
-DOMAIN-KEYWORD,stun
-DOMAIN-KEYWORD,biliapi
 
-# 斗鱼规则
-DOMAIN-SUFFIX,stun.douyucdn.cn
-DOMAIN-SUFFIX,stun1.douyucdn.cn
+# 斗鱼 PCDN / P2P
 DOMAIN-SUFFIX,dyp2p-ali.douyucdn.cn
 DOMAIN-SUFFIX,dyp2p-hw.douyucdn.cn
 DOMAIN-SUFFIX,p2p-ali.douyucdn.cn
@@ -44,3 +42,5 @@ DOMAIN-SUFFIX,p2plive-ali.douyucdn.cn
 DOMAIN-SUFFIX,p2plive-ws.douyucdn.cn
 DOMAIN-SUFFIX,p2plog.douyucdn.cn
 DOMAIN-SUFFIX,p2pvod-ws.douyucdn.cn
+DOMAIN-SUFFIX,stun.douyucdn.cn
+DOMAIN-SUFFIX,stun1.douyucdn.cn
