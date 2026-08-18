@@ -137,11 +137,6 @@ DOMAIN-SUFFIX,windsurf.com
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,poecdn.net
 
-# Hugging Face
-DOMAIN-SUFFIX,hf.co
-DOMAIN-SUFFIX,hf.space
-DOMAIN-SUFFIX,huggingface.co
-
 # Manus
 DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,manuscdn.com
