@@ -219,42 +219,22 @@ quic://223.6.6.6:853
 </details>
 
 ## 💌 推广
+### ✈️ 自用机场推荐
 
-<table>
-  <thead>
-    <tr>
-      <th width="50%" align="center">描述信息</th>
-      <th width="50%" align="center">图文介绍</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- 第一个广告：RackNerd -->
-    <tr>
-      <td width="50%" align="left">
-        <a href="https://dqzboy.github.io/proxyui/racknerd" target="_blank">提供高性价比的海外VPS，支持多种操作系统，适合搭建Docker代理服务。</a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://dqzboy.github.io/proxyui/racknerd" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/dqzboy/Images/dqzboy-proxy/Image_2025-07-07_16-14-49.png?raw=true" alt="RackNerd" width="200" height="120">
-        </a>
-      </td>
-    </tr>
-    <!-- 第二个广告：CloudCone -->
-    <tr>
-      <td width="50%" align="left">
-        <a href="https://dqzboy.github.io/proxyui/CloudCone" target="_blank">CloudCone 提供灵活的云服务器方案，支持按需付费，适合个人和企业用户。</a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://dqzboy.github.io/proxyui/CloudCone" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/dqzboy/Images/dqzboy-proxy/111.png?raw=true" alt="CloudCone" width="200" height="120">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+☁️[*飞鸟云：**直连节点，hy2协议。不限设备数量。支持周期和按量付费，高性价比***](https://feiniaoyun.xyz/#/register?code=0Y1qPvtE) 
+
+👑[*魔戒：**按量不限时、IEPL专线、不限速、不限设备、低延迟，高网速***](https://43.129.78.33:8000/register?aff=CG6h8Irm)
+
+☁️[*八戒：**流量不过期 不限速 不限设备数、低延迟，高网速***](https://bajie.one/#/register?code=uX4zUk5c) 
+
+✈️[*赔钱机场：**超便宜低价高速机场 流量不过期 不限设备 稳定解锁流媒体、ChatGPT等***](https://xn--mes358aby2apfg.com/register?code=nvNnABEq&cover=sfw) 
+
+---
 
 ##### *Telegram Bot: [点击联系](https://t.me/RelayHubBot)*
 **仅接受长期稳定运营，信誉良好的商家*
+
+---
 
 ## 感谢
 - 规则来自：[blackmatrix7](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon)
